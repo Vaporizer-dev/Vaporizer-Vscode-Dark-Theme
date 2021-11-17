@@ -6,7 +6,7 @@ A pretty relaxing Vscode theme
 
 INSTALL
 
-1. Go to https://marketplace.visualstudio.com/items?itemName=Vaporizer.vaporizer-dark.
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Vaporizer.vaporizer-dark).
 2. Click on the "Install" button.
 
 Enjoy!

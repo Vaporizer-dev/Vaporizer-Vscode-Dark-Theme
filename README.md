@@ -1,4 +1,4 @@
-# Vaporizer-Vscode-Dark-Theme
+# Vaporizer-Vscode-Themes
 
 Pretty relaxing themes that boost your coding! 
 

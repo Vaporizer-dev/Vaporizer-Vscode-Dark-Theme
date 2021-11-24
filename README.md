@@ -2,6 +2,8 @@
 
 ![Cool-Air](https://user-images.githubusercontent.com/14194924/142955628-a650c7a0-61f9-414d-8062-b5fa910cd31d.png)
 
+![Pasny-Fancy](https://user-images.githubusercontent.com/14194924/143217966-295dd384-cb72-4220-ac25-2b438430e958.png)
+
 ![Coffee-Milk](https://user-images.githubusercontent.com/14194924/142740383-55c7adb0-5395-488d-8ddb-840bcabf2b68.png)
 
 ![Joker-Batman](https://user-images.githubusercontent.com/14194924/142764967-4722fc82-ce8e-496e-ae49-6dca1940ac1e.png)

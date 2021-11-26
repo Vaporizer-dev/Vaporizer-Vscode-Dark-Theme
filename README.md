@@ -1,5 +1,9 @@
 ![themes](https://user-images.githubusercontent.com/14194924/142741314-1a367658-fb99-4ebb-beb4-d15e6ee3f859.png)
 
+![Phosphoric-green](https://user-images.githubusercontent.com/14194924/143615947-a796880a-9b2e-48cf-8c4e-f99812caf7f7.png)
+
+![Phosphoric-Blue](https://user-images.githubusercontent.com/14194924/143615959-4605bded-9a21-4227-ab14-ecfd3cd3ce05.png)
+
 ![Lithium](https://user-images.githubusercontent.com/14194924/143580827-ed2ddc0d-f10e-497d-84c4-a881e6ff20b4.png)
 
 ![Turquoise](https://user-images.githubusercontent.com/14194924/143247797-111587bc-288d-4211-b850-03e1f7ae2206.png)

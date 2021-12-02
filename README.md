@@ -1,27 +1,22 @@
+![cool](https://user-images.githubusercontent.com/14194924/144425108-32072ee0-d216-47e4-9799-dd87360098d5.png)
+![mini-pink](https://user-images.githubusercontent.com/14194924/144425200-82996864-a911-4eab-bffa-0a5df79d7a59.png)
+![coffee](https://user-images.githubusercontent.com/14194924/144425236-d19a9958-f390-4a12-b95b-43fa9b97e2be.png)
+![mini-blue](https://user-images.githubusercontent.com/14194924/144425267-3c762893-be3e-4a21-992d-8fc556351239.png)
+![turquoise-dark](https://user-images.githubusercontent.com/14194924/144425300-e61c6e2d-639c-475f-a316-addb49a7cc77.png)
+![phosphoric-green](https://user-images.githubusercontent.com/14194924/144425333-d28b6460-fa54-4e05-bd1f-e2178590bae0.png)
+![pansy](https://user-images.githubusercontent.com/14194924/144425371-af2235e7-add3-4bd0-94ae-826c4f47178f.png)
+![phosphoric-blue](https://user-images.githubusercontent.com/14194924/144425408-87ca18e9-01be-4b7b-80c4-ea329955e511.png)
+![lithium](https://user-images.githubusercontent.com/14194924/144425455-2992eb57-740c-4531-8e74-aca9bbbcbc60.png)
+![Milky-way](https://user-images.githubusercontent.com/14194924/144425480-01492ae1-3c69-418c-aea2-ea425a0ac02b.png)
+![joker](https://user-images.githubusercontent.com/14194924/144425516-d93d145f-a610-4ebe-ba71-f03234ed176f.png)
+![batman](https://user-images.githubusercontent.com/14194924/144425531-7e8f1470-ce3e-45cb-847b-8d42d3edddfa.png)
+![blue](https://user-images.githubusercontent.com/14194924/144425574-7d888db6-e7fa-46e9-bbca-3950db6140c7.png)
+![red](https://user-images.githubusercontent.com/14194924/144425604-5d30d25f-97bc-42ea-87ad-1ef251cc2956.png)
+![purple](https://user-images.githubusercontent.com/14194924/144425623-a1bd062f-c947-4529-bb13-5248d1e7d7a0.png)
+![green](https://user-images.githubusercontent.com/14194924/144425633-d532a304-6239-460f-a5bd-5aebff73449f.png)
+![orange](https://user-images.githubusercontent.com/14194924/144425644-92007daf-e9ec-474f-bb7e-458f82022d4f.png)
 
-![Minimalism](https://user-images.githubusercontent.com/14194924/144384804-ccf1bd21-7ffc-4c4a-9ee8-86d19274b0a5.png)
 
-![Mini-Pink](https://user-images.githubusercontent.com/14194924/144244829-ca21ed24-a59b-4c58-bc4d-4d282113576a.png)
-
-![Mini-Blue](https://user-images.githubusercontent.com/14194924/144206825-3d76e910-69ef-431e-8571-3e72d78c2d79.png)
-
-![Phosphoric-green](https://user-images.githubusercontent.com/14194924/143615947-a796880a-9b2e-48cf-8c4e-f99812caf7f7.png)
-
-![Phosphoric-Blue](https://user-images.githubusercontent.com/14194924/143615959-4605bded-9a21-4227-ab14-ecfd3cd3ce05.png)
-
-![Lithium](https://user-images.githubusercontent.com/14194924/143580827-ed2ddc0d-f10e-497d-84c4-a881e6ff20b4.png)
-
-![Turquoise](https://user-images.githubusercontent.com/14194924/143247797-111587bc-288d-4211-b850-03e1f7ae2206.png)
-
-![Pasny-Fancy](https://user-images.githubusercontent.com/14194924/143217966-295dd384-cb72-4220-ac25-2b438430e958.png)
-
-![Cool-Air](https://user-images.githubusercontent.com/14194924/142955628-a650c7a0-61f9-414d-8062-b5fa910cd31d.png)
-
-![Coffee-Milk](https://user-images.githubusercontent.com/14194924/142740383-55c7adb0-5395-488d-8ddb-840bcabf2b68.png)
-
-![Joker-Batman](https://user-images.githubusercontent.com/14194924/142764967-4722fc82-ce8e-496e-ae49-6dca1940ac1e.png)
-
-![All](https://user-images.githubusercontent.com/14194924/142740738-5099d977-a269-4da6-b222-6c689e7bebb7.png)
 
 INSTALLATION
 

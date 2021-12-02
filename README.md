@@ -1,5 +1,7 @@
 ![themes](https://user-images.githubusercontent.com/14194924/142741314-1a367658-fb99-4ebb-beb4-d15e6ee3f859.png)
 
+![Minimalism](https://user-images.githubusercontent.com/14194924/144384804-ccf1bd21-7ffc-4c4a-9ee8-86d19274b0a5.png)
+
 ![Mini-Pink](https://user-images.githubusercontent.com/14194924/144244829-ca21ed24-a59b-4c58-bc4d-4d282113576a.png)
 
 ![Mini-Blue](https://user-images.githubusercontent.com/14194924/144206825-3d76e910-69ef-431e-8571-3e72d78c2d79.png)

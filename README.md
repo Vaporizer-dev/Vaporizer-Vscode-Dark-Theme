@@ -1,3 +1,4 @@
+![minimalism](https://user-images.githubusercontent.com/14194924/144426838-ddc7d9a2-e664-4535-a53c-5b7682160ed2.png)
 ![cool](https://user-images.githubusercontent.com/14194924/144425108-32072ee0-d216-47e4-9799-dd87360098d5.png)
 ![mini-pink](https://user-images.githubusercontent.com/14194924/144425200-82996864-a911-4eab-bffa-0a5df79d7a59.png)
 ![coffee](https://user-images.githubusercontent.com/14194924/144425236-d19a9958-f390-4a12-b95b-43fa9b97e2be.png)

@@ -8,7 +8,7 @@
 ![Moon-light-1](https://user-images.githubusercontent.com/14194924/151676605-33a1a87e-b109-41b3-8abe-87c95719a689.jpg)
 ![Golgi](https://user-images.githubusercontent.com/14194924/149897205-12c7e0bf-3022-4206-9171-744a756e5e1b.jpg)
 ![Python-env](https://user-images.githubusercontent.com/14194924/150084247-a2e6426d-a81f-4eb1-ae7a-053f10de12bd.jpg)
-![Epic-red-1](https://user-images.githubusercontent.com/14194924/151676627-3d0756ac-c50a-4709-b074-01facb059ddd.jpg
+![Epic-red-1](https://user-images.githubusercontent.com/14194924/151676627-3d0756ac-c50a-4709-b074-01facb059ddd.jpg)
 ![Lemonade](https://user-images.githubusercontent.com/14194924/147388257-93b923db-1fef-470e-8cd6-647aaeeb62d6.jpg)
 ![Crescent](https://user-images.githubusercontent.com/14194924/147388252-6628ecfa-dc61-45d9-bdf5-fa6c7f5d024e.jpg)
 ![Soft](https://user-images.githubusercontent.com/14194924/147388248-110143d1-b054-4fb6-8834-63fe407ca7bb.jpg)

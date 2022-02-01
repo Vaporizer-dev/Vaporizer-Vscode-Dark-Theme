@@ -1,9 +1,12 @@
 ![PHOSPHORIC-BLUE(1)](https://user-images.githubusercontent.com/14194924/151923260-aeda82b1-793d-49c0-a979-4ae40cd065a2.jpg)
 ![PHOSPHORIC-GREEN](https://user-images.githubusercontent.com/14194924/151923274-c17675d3-e9b6-4bef-bac1-0e1739bf366a.jpg)
 ![TURQUOISE](https://user-images.githubusercontent.com/14194924/151923292-9f43cd37-ba24-48d8-9caf-d477a72dd263.jpg)
-![MINIMALISM(1)](https://user-images.githubusercontent.com/14194924/151923309-7b3ac3ac-8753-461c-9130-d2c85685d4da.jpg)
-![COFFEE(1)](https://user-images.githubusercontent.com/14194924/151923323-a3544f68-af97-4955-a704-33ddf18107d6.jpg)
 
+![MINIMALISM(1)](https://user-images.githubusercontent.com/14194924/151923309-7b3ac3ac-8753-461c-9130-d2c85685d4da.jpg)
+![SOFT-TOUCH](https://user-images.githubusercontent.com/14194924/151933866-d480b53e-66fc-4719-a5ae-73586d9efc9d.jpg)
+
+
+![COFFEE(1)](https://user-images.githubusercontent.com/14194924/151923323-a3544f68-af97-4955-a704-33ddf18107d6.jpg)
 ![Crypto](https://user-images.githubusercontent.com/14194924/151676162-c344db81-547b-48b5-85c8-17b5410fdcce.jpg)
 ![Purple-grey](https://user-images.githubusercontent.com/14194924/151676152-0a0ad909-3d05-4029-81cf-21ad776bc43c.jpg)
 ![Cool-1](https://user-images.githubusercontent.com/14194924/151676141-93dec0c8-7bdc-4793-b3b4-581b70a392b4.jpg)
@@ -21,7 +24,6 @@
 ![Lemonade](https://user-images.githubusercontent.com/14194924/147388257-93b923db-1fef-470e-8cd6-647aaeeb62d6.jpg)
 ![lithium](https://user-images.githubusercontent.com/14194924/144425455-2992eb57-740c-4531-8e74-aca9bbbcbc60.png)
 
-![Soft](https://user-images.githubusercontent.com/14194924/147388248-110143d1-b054-4fb6-8834-63fe407ca7bb.jpg)
 ![Modern](https://user-images.githubusercontent.com/14194924/147255904-4af16b98-0d75-47b7-8ef9-e82d673fc7ad.jpg)
 ![Cloudy](https://user-images.githubusercontent.com/14194924/146944754-6c21bf0c-87eb-4653-bc86-ae50a0e9de60.jpg)
 

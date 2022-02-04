@@ -1,3 +1,6 @@
+![COBALT](https://user-images.githubusercontent.com/14194924/152505343-db97599b-1730-4057-9fd9-a931409f9148.jpg)
+
+![LEMONADE SOLARIZED](https://user-images.githubusercontent.com/14194924/152505329-39a1f604-7245-4bb4-a45f-19ee94a7a4e2.jpg)
 ![LEMONADE(1)](https://user-images.githubusercontent.com/14194924/152379440-aad284e7-38e4-43f6-a57c-165796db7bb9.jpg)
 ![PHOSPHORIC-BLUE(1)](https://user-images.githubusercontent.com/14194924/151923260-aeda82b1-793d-49c0-a979-4ae40cd065a2.jpg)
 ![PHOSPHORIC-GREEN](https://user-images.githubusercontent.com/14194924/151923274-c17675d3-e9b6-4bef-bac1-0e1739bf366a.jpg)

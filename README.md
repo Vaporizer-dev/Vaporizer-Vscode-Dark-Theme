@@ -1,6 +1,5 @@
-                                                  Vote for your Favorite themes:
 
-Link -> [Poll](https://fast-poll.com/poll/709ed233)
+![change-p-pairs](https://user-images.githubusercontent.com/14194924/184189874-12ddacd1-fedf-495c-bd34-d3805f8241f6.png)
 
 
 ![poll](https://user-images.githubusercontent.com/14194924/182693321-7908a867-3981-41af-926d-3d24f444b06c.png)

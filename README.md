@@ -1,9 +1,7 @@
 
 ![change-p-pairs](https://user-images.githubusercontent.com/14194924/184189874-12ddacd1-fedf-495c-bd34-d3805f8241f6.png)
 
-    
-                                                               COP
-![cop](https://user-images.githubusercontent.com/14194924/182684998-88c0b884-1132-4ed6-bda1-4e4026db111b.png)
+![ivy](https://user-images.githubusercontent.com/14194924/184552511-e39d0588-8cba-4cd0-8da8-54bf64677477.png)                                               ![cop](https://user-images.githubusercontent.com/14194924/182684998-88c0b884-1132-4ed6-bda1-4e4026db111b.png)
 ![cop2](https://user-images.githubusercontent.com/14194924/182685022-402807c7-49a3-4d95-8996-9d470b81e28e.png)
 
 ![Painting 2](https://user-images.githubusercontent.com/14194924/182454227-42a39d6b-84f3-4b22-b7cd-0f1f88f5502b.png)
